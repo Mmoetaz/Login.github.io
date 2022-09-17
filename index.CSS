@@ -1,0 +1,79 @@
+html{
+	background: #DDA0DD;
+}
+h2{
+	text-align: center;
+	padding-left: 8em;
+	background: #DDA0DD;
+}
+.mypar{
+	height: 100%;
+  	width: 18%;
+  	position: fixed;
+  	background-color: #009542;
+	top: 0px ;
+  	left: 0px;
+}
+.he{
+	
+	padding-top: 100%;
+	font-size: x-large;
+	text-align: !important;
+	font-family: cursive ;
+	padding-left: 1em;
+}
+.signin{
+	text-align: center;
+	font-family: cursive;
+	padding-left: 10em;
+}
+.button {
+  	padding: 5px 10px;
+  	font-size: 18px;
+  	font-family: cursive;
+  	text-align: center;
+   	background-color: #4CAF50;
+  	border-radius: 30px;
+}
+input {
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 300px;
+  height: 20px;
+}
+input[type=checkbox]{
+	color: darkred;
+}
+
+.check{
+	font-family: cursive;
+	font-size: x-large;
+	text-align: center;
+	
+}
+#M{
+	padding-left: 7.5em;
+}
+#F{
+	padding-left: 8em;
+}
+
+.nat{
+	font-size: large;
+	font-family: cursive;
+}
+.tete{
+	text-align: center;
+	font-family: cursive;
+	padding-left: 10em;	
+}
+
+h3{
+	text-align: center;
+	padding-bottom: 10em;
+	font-size: !important;
+}
+
+
+
+
